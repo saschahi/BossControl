@@ -1,0 +1,20 @@
+Boss Controll lets you disable Bosses of your choosing.
+
+Go into "YOURUSERFOLDER\Dokuments\My Games\Terraria\ModLoader\Mod Configs"
+and open "Boss Controll.json" with a Texteditor of your Choice to Configure this mod.
+
+If you choose to add more mods, this mod will automatically put the new Bosses into the config-list.
+
+And don't worry. the Config won't break if you remove a Mod that adds a Boss
+
+NOTE: To enable/disable bosses you need to restart the game. I'm working on it to reload the config on Mod Reload.
+
+NOTE2: Some Bosses come in multiple parts. It's advised to disable all parts of a single boss to reduce buginess.
+
+ToDo:
+- Tidy up some Code
+- Add the ability to disable events
+- Make the Config Reload without restarting the game/server
+
+V0.1
+- Made the Mod Operable

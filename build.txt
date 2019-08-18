@@ -1,0 +1,5 @@
+displayName = Boss Controll
+author = Saschahi
+version = 0.1.1
+side = Both 
+homepage = https://discord.gg/9dauEnQ
